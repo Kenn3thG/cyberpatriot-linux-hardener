@@ -1,6 +1,7 @@
 # CyberPatriot Linux Hardener
 
 Automated bash script to secure Ubuntu/Debian for **CyberPatriot**.
+Make sure "git" is installed! (sudo apt install git)
 
 ## One-Command at Competition
 ```bash
